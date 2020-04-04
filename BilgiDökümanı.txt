@@ -1,0 +1,40 @@
+	
+	 WEB TEKNOLOJİLERİ DÖNEM SONU ÖDEVİ BİLGİ DÖKÜMANI
+
+-----------------------------------------------------------------------
+
+Öğrenci Adı:  Oğuzhan OLÇA
+Numara:	      B181210045
+Grup:         1A
+
+-----------------------------------------------------------------------
+
+PROJE KONUSU:
+  Öğrencilerin bireysel olarak kendilerini ve memleketlerini veya
+sevdikleri bir şehri tanıtan bir web sitesi gelişitirilmesi.
+
+-----------------------------------------------------------------------
+
+POJE AMACI:
+  Derste öğrenilen bilgilerin (HTML, CSS, Javascript vb.) 
+kullanılması ve GitHub kullanımını öğrenme.
+
+------------------------------------------------------------------------
+
+PROJE PLANLARI:
+
++ Proje adımları belirlenecektir.
++ Ödevde HTML, CSS, PHP VE JavaScript gibi teknolojiler kullanılacaktır.
++ GitHub kullanılarak ödev ilgili kişiye teslim edilecektir.
+
+------------------------------------------------------------------------
+
+PROJE ADIMLARI:
+
++ Uygun şehir seçilecek ve şehir ile ilgili gerekli bilgi dökümanları araştırılacak,
+  beğenilen ve gerekli olan resimler seçilecektir.
++ HTML Kodları yazılacak ve CSS, PHP, JavaScript gibi teknolojilerle desteklenecektir.
++ Belirlenen süre içerisinde ödev bitirilecektir.
+
+------------------------------------------------------------------------
+
